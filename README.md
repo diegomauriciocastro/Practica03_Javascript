@@ -8,8 +8,7 @@
   
  **Interfaz de la Formulario**
  
- ![interfaz](https://user-images.githubusercontent.com/56609303/69183380-e807d180-0ae0-11ea-8235-0aced0d0e107.jpg)
- 
+  ![1](https://user-images.githubusercontent.com/56609303/69185010-dd9b0700-0ae3-11ea-8673-edeb88a4dd0c.png)
  
  **Codigo html**
  
