@@ -1,6 +1,14 @@
 
-//Validacion de todos los input
+/*
+    Funciones de JavaScript para las validaciones de cada campo.
+    
+    Author: Diego Castro
+    Date:  19/11/2019
 
+    Filename: validaciones.js
+*/
+
+//Validacion de todos los campos
 
 function validarCamposObligatorios() {
     var bandera = true
