@@ -6,7 +6,9 @@
   teléfono, fecha de nacimiento, correo electrónico y contraseña. Usando funciones con javascript validar que ciertos campos ingrese
   solo numeros o solo letras.
   
- **Interfaz de la galeria**
+ **Interfaz de la Formulario**
+ 
+ https://github.com/diegomauriciocastro/Practica03_Javascript/tree/master/img_readme/interfaz.jpg
  
  **Codigo html**
  
