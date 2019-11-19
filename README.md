@@ -8,7 +8,7 @@
   
  **Interfaz de la Formulario**
  
- https://github.com/diegomauriciocastro/Practica03_Javascript/tree/master/img_readme/interfaz.jpg
+ ![interfaz](https://user-images.githubusercontent.com/56609303/69183380-e807d180-0ae0-11ea-8235-0aced0d0e107.jpg)
  
  **Codigo html**
  
